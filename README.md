@@ -8,6 +8,7 @@ npx create-react-app my-first-react-app
 ```
 I then generated a license file, a relevant .gitignore and a Contributor Covenenant:
 ```
+cd my-first-react-app
 npx license
 npx gitignore node
 npx covgen me@osamahahmad.com
