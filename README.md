@@ -10,6 +10,8 @@ I then generated a license file, a relevant .gitignore and a Contributor Covenen
 ```
 cd my-first-react-app
 npx license
+```
+```
 npx gitignore node
 npx covgen me@osamahahmad.com
 ```
