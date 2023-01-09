@@ -24,5 +24,3 @@ I used `npm` to install `express` in the React project directory:
 npm install express
 ```
 `express` is the most popular Node web framework, and I can use it to serve a "my-first-react-app/build", generated using `npm run build`.
-
-I already have a global install of [`pm2`](https://www.npmjs.com/package/pm2), which I can use to start and reload this project.
